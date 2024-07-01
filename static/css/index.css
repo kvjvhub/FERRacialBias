@@ -92,7 +92,11 @@ body {
 .link-block:hover{
   background-color: WHITE;
   color: black;
-  font-color: black;
+
+}
+
+#paper-links a:hover, #arxiv-links a:hover{
+  color: #000;
 }
 
 .publication-video {
