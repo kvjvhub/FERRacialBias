@@ -89,6 +89,12 @@ body {
   /*color: #4286f4;*/
 }
 
+.publication-links:hover{
+  background-color: WHITE;
+  color: black;
+  font-color: black;
+}
+
 .publication-video {
     position: relative;
     width: 100%;
