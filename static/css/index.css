@@ -89,7 +89,7 @@ body {
   /*color: #4286f4;*/
 }
 
-.publication-links:hover{
+.link-block:hover{
   background-color: WHITE;
   color: black;
   font-color: black;
