@@ -89,6 +89,7 @@ body {
   /*color: #4286f4;*/
 }
 
+/*new section*/
 .link-block:hover{
   background-color: WHITE;
   color: black;
@@ -98,6 +99,7 @@ body {
 #paper-links a:hover, #arxiv-links a:hover{
   color: #000;
 }
+/*new section end*/
 
 .publication-video {
     position: relative;
