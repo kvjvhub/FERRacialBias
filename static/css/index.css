@@ -2,6 +2,31 @@ body {
   font-family: 'Noto Sans', sans-serif;
 }
 
+.content-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 30px;
+}
+
+.text-content {
+  flex: 1;
+  margin-right: 250px;
+  margin-left: 250px;
+}
+
+.image-content {
+  flex: 1;
+}
+
+.dataone{
+  max-width: 70%;
+  max-height: auto;
+}
+
+.dataone:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
 
 .footer .icon-link {
     font-size: 25px;
