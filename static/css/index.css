@@ -11,8 +11,12 @@ body {
 
 .text-content {
   flex: 1;
-  margin-right: 250px;
-  margin-left: 250px;
+  margin-right: 100px;
+  margin-left: 400px;
+}
+
+.p {
+
 }
 
 .image-content {
@@ -20,7 +24,12 @@ body {
 }
 
 .dataone{
-  max-width: 70%;
+  max-width: 40%;
+  max-height: auto;
+  margin-top: 45px;
+}
+.datatwo{
+  max-width: 50%;
   max-height: auto;
 }
 
